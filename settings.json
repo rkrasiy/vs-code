@@ -1,0 +1,12 @@
+{
+  "editor.fontSize": 13,
+  "editor.snippetSuggestions": "top",
+  "editor.minimap.enabled": false,
+  "editor.linkedEditing": true,
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "vscode-icons",
+  "fontshortcuts.defaultFontSize": 13,
+  "fontshortcuts.defaultTerminalFontSize": 13,
+	"fontshortcuts.step": 1,
+  "editor.lineHeight": 0,
+}
