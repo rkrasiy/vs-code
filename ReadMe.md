@@ -2,6 +2,8 @@
 
 ```
 {
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "on",
   "editor.fontSize": 13,
   "editor.snippetSuggestions": "top",
   "editor.minimap.enabled": false,
@@ -19,6 +21,7 @@
 ## Extensions packege names for easy install
 
 ```
+eamodio.gitlens
 dbaeumer.vscode-eslint
 dsznajder.es7-react-js-snippets
 esbenp.prettier-vscode
